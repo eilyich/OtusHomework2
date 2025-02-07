@@ -1,7 +1,7 @@
 # Домашняя работа 2
 ## Реализация алгоритма DQN
 
-( Посмотреть notebook **с рендерингом видео**:  [можно также здесь](https://nbviewer.org/github/eilyich/OtusHomework2/blob/master/homewok.ipynb?flush_cache=true) )
+( Посмотреть notebook **с рендерингом видео**:  [можно также здесь](https://nbviewer.org/github/eilyich/OtusHomework2/blob/master/homework.ipynb?flush_cache=true) )
 
 В данной работе реализован алгоритм DQN в тестовой среде `LunarLander-v3`:
 - выполнена подготовка среды
